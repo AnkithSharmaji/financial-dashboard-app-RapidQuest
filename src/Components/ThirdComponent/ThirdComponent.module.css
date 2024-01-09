@@ -1,0 +1,24 @@
+.parentDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 15px;
+}
+
+.flexBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+
+.boxStyle{
+    border-left: 2px solid rgb(45, 45, 203);
+    padding-left: 15px;
+}
+
+@media only screen and (max-width: 830px) {
+    .boxStyle{
+        padding-bottom: 30px;
+    }
+}
