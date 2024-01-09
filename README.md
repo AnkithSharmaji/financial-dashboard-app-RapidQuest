@@ -11,5 +11,9 @@ This project serves as a starting point for creating a responsive dashboard inte
   
 ## Hosted on Netlify [Click here](https://659d927f67d89d40dde00106--mellow-babka-79c48c.netlify.app/) to checkout 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshot 
+
+![01](https://github.com/AnkithSharmaji/financial-dashboard-app-RapidQuest/assets/86291521/ebefca16-d11b-4990-afd5-1170c318220d)
+![2](https://github.com/AnkithSharmaji/financial-dashboard-app-RapidQuest/assets/86291521/4ae66ce1-d2ac-4483-b942-7f904363eadf)
+
 
